@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "zp644.us1.dbt.com"
+  active-project: "70471823470503"
+projects:
+  - project-name: "Analytics1"
+    project-id: "70471823470503"
+    account-name: "celebal technologies"
+    account-id: "70471823462412"
+    account-host: "zp644.us1.dbt.com"
+    token-name: "cloud-cli-319c"
+    token-value: "dbtu_LhjxWhstcTcaF2Fc961VxsPyHlXUmRQRbwBL9-EIXjDWBTfUMA"
+
+
